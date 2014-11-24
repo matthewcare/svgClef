@@ -1,0 +1,18 @@
+#trebleSvgWindow {
+	height: 1070px;
+	width: 517px;
+}
+
+#bassSvgWindow {
+	height: 632px;
+	width: 517px;
+}
+
+.staff {
+	stroke-width: 11.03001785;
+}
+
+#flex {
+	display: flex;
+	stroke: #000;
+}
